@@ -4,4 +4,5 @@ Program that obtains new earthquake data as a JSON. Offers several sorting metho
 to chosen sorting, and filtered is chosen.
 
 Sorting methods include: Time, Magnitude, Longitude, and Latitude
+
 Filtering methods include: Magnitude and Place
